@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Add Data</title>
+        <title>Add Syllabus</title>
     </head>
     <body>
         <?php
